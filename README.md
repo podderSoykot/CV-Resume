@@ -34,9 +34,9 @@ Soykot Podder is a passionate Machine Learning Engineer with expertise in develo
 
 ## Contact Information
 
-- **Kaggle:** [diptopodder](kaggle.com/diptopodder)
-- **Facebook:** [soykot.podder](facebook.com/soykot.podder)
-- **Github:** [podderSoykot](github.com/podderSoykot)
+- **Kaggle:** [diptopodder]((https://www.kaggle.com/diptopodder))
+- **Facebook:** [soykot.podder]([facebook.com/soykot.podder](https://www.facebook.com/soykot.podder/))
+- **Github:** [podderSoykot](https://github.com/podderSoykot)
 
 ---
 
